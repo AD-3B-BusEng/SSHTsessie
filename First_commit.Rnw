@@ -1,0 +1,46 @@
+\begin{question}
+
+\textbf{\underline{Reeks 1. Oefening 1.4}}\\
+  \\
+
+	In onderstaande tabel vind je de waarden van $x_{i}$ en $y_{i}$ voor 
+	$i$ gaande van 1 tot 5. 
+	
+	\begin{center}
+	    \begin{tabular}{c|c|c|c|c|c}
+	    \hline
+	      ___   & ___ & ___ & ___ & ___ &  ___ \\
+	    \hline
+	      $i$   & 1 & 2 & 3 & 4 & 5  \\
+	    \hline
+	    $x_{i}$ & 3 & 2 & 4 & 5 & 4  \\
+	    \hline
+	    $y_{i}$ & 5 & 6 & 5 & 2 & 4  \\
+	    \hline
+	     ___   & ___ & ___ & ___ & ___ &  ___ \\
+	    \hline
+	\end{tabular}
+	\end{center}
+	
+	\vspace{0.5cm}
+	
+	\noindent Voer volgende berekening uit.
+	
+	\vspace{0.5cm}
+	
+  $\sum_{i=1}^{3} (1-i) y_{i} =$
+
+	\vspace{1cm}
+	
+\end{question}
+
+
+\begin{solution}
+
+	 $\sum_{i=1}^{3} (1-i) y_{i} = (0 \times 5)+((-1) \times 6)+((-2) \times 5)= 0-6-10 = -16$ 
+ 
+\end{solution}
+
+\extype{num}
+\exsolution{19}
+\exname{Reeks1_Oef1_Opgave4}
