@@ -1,0 +1,46 @@
+\begin{question}
+
+\textbf{\underline{Reeks 1. Oefening 1.9}}\\
+  \\
+
+	In onderstaande tabel vind je de waarden van $x_{i}$ en $y_{i}$ voor 
+	$i$ gaande van 1 tot 5. 
+	
+	\begin{center}
+	    \begin{tabular}{c|c|c|c|c|c}
+	    \hline
+	      ___   & ___ & ___ & ___ & ___ &  ___ \\
+	    \hline
+	      $i$   & 1 & 2 & 3 & 4 & 5  \\
+	    \hline
+	    $x_{i}$ & 3 & 2 & 4 & 5 & 4  \\
+	    \hline
+	    $y_{i}$ & 5 & 6 & 5 & 2 & 4  \\
+	    \hline
+	     ___   & ___ & ___ & ___ & ___ &  ___ \\
+	    \hline
+	\end{tabular}
+	\end{center}
+	
+	\vspace{0.5cm}
+	
+	\noindent Voer volgende berekening uit.
+	
+	\vspace{0.5cm}
+	
+	 $\sum_{i=1}^{5} \sum_{j=1}^{5} (j+y_{i}) =$
+
+	\vspace{1cm}
+	
+\end{question}
+
+
+\begin{solution}
+
+	 $\sum_{i=1}^{5} \sum_{j=1}^{5} (j+y_{i}) = \sum_{i=1}^{5} 1+y_{i} +2+y_{i}+3+y_{i}+4+y_{i}+5+y_{i}= \sum_{i=1}^{5}15+5y_{i}=15+5*5+15+5*6+15+5*5+15+5*2+15+5*4=185$
+
+\end{solution}
+
+\extype{num}
+\exsolution{185}
+\exname{Reeks1_Oef1_Opgave9}
